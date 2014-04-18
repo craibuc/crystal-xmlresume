@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="resume.xsd">
+	<metadata lastModified="2014-04-18T13:17:00" author="Craig Buchanan"/>
+	<objective>Nam tempus mollis imperdiet. Curabitur eu justo ultrices, tempus lectus a, venenatis felis. Sed auctor aliquam ligula id ullamcorper. Duis ante purus, porttitor ac tortor eu, sagittis semper ipsum. Donec nibh nunc, dictum eget lectus vel, interdum malesuada lorem. Nulla iaculis mi eget adipiscing lacinia. Nullam euismod lectus id elementum posuere. Quisque placerat ut est eu luctus. Aliquam sit amet semper dolor. </objective>
+	<person givenName="First" surName="Last">
+		<address>
+			<room>#100</room>
+			<street>XXXX Hennepin Avenue South</street>
+			<city>Minneapolis</city>
+			<regionCode>MN</regionCode>
+			<postalCode>55555</postalCode>
+			<countryCode>US</countryCode>
+		</address>
+		<contact>
+			<phone>+1.612.999.9999</phone>
+			<email>first.last@domain.com</email>
+			<url>http://www.domain.com</url>
+            <linkedIn>http://linkedin.com/in/lastfirst</linkedIn>
+		</contact>
+	</person>
+	<academics>
+		<degrees>
+			<degree graduated="2000-06-01">
+				<level>MBA</level>
+				<major>Management Information Systems</major>
+				<minor/>
+				<institution>Foobar University</institution>
+				<annotation/>
+			</degree>
+			<degree graduated="1900-06-01">
+				<level>BBA</level>
+				<major>Finance</major>
+				<minor>Economics</minor>
+				<institution>University of Foobar</institution>
+				<annotation/>
+			</degree>
+		</degrees>
+	</academics>
+    <certifications>
+        <certification>Certification ABC</certification>
+        <certification>Certification XYZ</certification>
+        <certification>Certification 123</certification>
+        <certification>Certification 456</certification>
+	</certifications>
+	
+	<projects>
+		
+        <project startingDate="2014-01-01">
+            <client name="Foo Foo Foo Foo Foo Foo" url="http://www.foo.org"><location>New York, NY</location></client>
+            <summary>Nullam luctus porta enim, non fermentum ligula laoreet sed. Fusce molestie egestas interdum.</summary>
+            <accomplishments>
+                <accomplishment>Nam tempus mollis imperdiet. Curabitur eu justo ultrices, tempus lectus a, venenatis felis. Sed auctor aliquam ligula id ullamcorper. Duis ante purus, porttitor ac tortor eu, sagittis semper ipsum. Donec nibh nunc, dictum eget lectus vel, interdum malesuada lorem. </accomplishment>
+                <accomplishment>Nam tempus mollis imperdiet. Curabitur eu justo ultrices, tempus lectus a, venenatis felis. Sed auctor aliquam ligula id ullamcorper. Duis ante purus, porttitor ac tortor eu, sagittis semper ipsum. Donec nibh nunc, dictum eget lectus vel, interdum malesuada lorem. </accomplishment>
+            </accomplishments>
+            <technologies>BusinessObjects XI, Crystal Reports, Oracle 10g, Universe, WebIntelligence, BusinessView</technologies>
+        </project>
+		
+        <project startingDate="2013-01-01" endingDate="2013-12-31">
+            <client name="Bar Bar Bar Bar Bar Bar" url="http://www.bar.org"><location>Baltimore, MD</location></client>
+            <summary>Nullam luctus porta enim, non fermentum ligula laoreet sed. Fusce molestie egestas interdum.</summary>
+            <accomplishments>
+                <accomplishment>Nam tempus mollis imperdiet. Curabitur eu justo ultrices, tempus lectus a, venenatis felis. Sed auctor aliquam ligula id ullamcorper. Duis ante purus, porttitor ac tortor eu, sagittis semper ipsum. Donec nibh nunc, dictum eget lectus vel, interdum malesuada lorem. </accomplishment>
+                <accomplishment>Nam tempus mollis imperdiet. Curabitur eu justo ultrices, tempus lectus a, venenatis felis. Sed auctor aliquam ligula id ullamcorper. Duis ante purus, porttitor ac tortor eu, sagittis semper ipsum. Donec nibh nunc, dictum eget lectus vel, interdum malesuada lorem. </accomplishment>
+            </accomplishments>
+            <technologies>BusinessObjects XI, Crystal Reports 2008, Oracle 10g, Universe, WebIntelligence, BusinessView</technologies>
+        </project>
+		
+		<project startingDate="2012-02-01" endingDate="2012-12-31">
+            <client name="Foobar Foobar Foobar Foobar" url="http://www.foobar.org/"><location>St. Paul, MN</location></client>
+            <summary>Nullam luctus porta enim, non fermentum ligula laoreet sed. Fusce molestie egestas interdum.</summary>
+            <accomplishments>
+                <accomplishment>Nam tempus mollis imperdiet. Curabitur eu justo ultrices, tempus lectus a, venenatis felis. Sed auctor aliquam ligula id ullamcorper. Duis ante purus, porttitor ac tortor eu, sagittis semper ipsum. Donec nibh nunc, dictum eget lectus vel, interdum malesuada lorem. </accomplishment>
+                <accomplishment>Nam tempus mollis imperdiet. Curabitur eu justo ultrices, tempus lectus a, venenatis felis. Sed auctor aliquam ligula id ullamcorper. Duis ante purus, porttitor ac tortor eu, sagittis semper ipsum. Donec nibh nunc, dictum eget lectus vel, interdum malesuada lorem. </accomplishment>
+            </accomplishments>
+            <technologies>BusinessObjects XI, Crystal Reports XI, Oracle 10g, Universe, WebIntelligence</technologies>
+		</project>
+
+	</projects>
+	
+</resume>
